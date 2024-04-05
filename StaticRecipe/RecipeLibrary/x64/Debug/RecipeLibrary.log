@@ -1,0 +1,3 @@
+﻿  RecipeLibrary.cpp
+G:\M5\StaticRecipe\RecipeLibrary\RecipeLibrary.cpp(121,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  RecipeLibrary.vcxproj -> G:\M5\StaticRecipe\x64\Debug\RecipeLibrary.lib
